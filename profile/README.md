@@ -1,6 +1,6 @@
 # Modern WPress
 
-![Banner](./banner-modern-wpress.jpg)
+![Banner](https://github.com/Modern-WPress/.github/blob/main/profile/banner-modern-wpress.jpg)
 
 Welcome to Modern WPress, An Open-Source Hub for Crafting Cutting-Edge WordPress
 Themes! At Modern WPress, our passionate community collaborates to create the
